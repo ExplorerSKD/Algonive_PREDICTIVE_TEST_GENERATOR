@@ -75,4 +75,4 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
 📄 License
-This project is distributed under the MIT License. See LICENSE for more information.
+This project is distributed under the Eclipse Public License 2.0. See LICENSE for more information.
