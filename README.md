@@ -21,7 +21,7 @@ Python 3.x
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/predictive-text-generator.git
+git clone https://github.com/ExplorerSKD/Algonive_PREDICTIVE_TEST_GENERATOR.git
 
 Navigate to the project directory:
 
